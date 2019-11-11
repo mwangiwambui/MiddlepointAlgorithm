@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Wambui\source\repos\Middle-point\Middle-point\main.cpp(36,17): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Wambui\source\repos\Middle-point\Middle-point\main.cpp(76,1): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  Middle-point.vcxproj -> C:\Users\Wambui\source\repos\Middle-point\Debug\Middle-point.exe
